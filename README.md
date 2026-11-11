@@ -1,6 +1,7 @@
-## Hey! I'm Nanda Indi 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=39FF88&center=true&vCenter=true&width=750&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Nanda+Indi;Happy+coding%2C+and+glad+you're+here!" alt="Typing SVG" />
+</p>
 
-![Nanda Indi](img/h1.png)
 
 <!--
 **nandaindi/nandaindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,figma&theme=light)](https://skillicons.dev)
+
+##### Connect with me
+
+![https://instagram.com/nandaindil](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/nanda-indi-lestari/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
