@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey! I'm Nanda Indi 👋
+
+![Nanda Indi](img/h1.png)
 
 <!--
 **nandaindi/nandaindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
