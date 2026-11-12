@@ -1,4 +1,3 @@
-
 ![nanda indi](img/header.png)
 
 ---
@@ -81,13 +80,13 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <a href="https://instagram.com/">
+    <td align="left" width="150">
+      <a href="https://www.instagram.com/nandaindil">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo" />
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://linkedin.com/">
+      <a href="https://www.linkedin.com/in/nanda-indi-lestari">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo" />
       </a>
     </td>
@@ -103,5 +102,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandaindi/nandaindi/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nandaindi/nandaindi/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-
