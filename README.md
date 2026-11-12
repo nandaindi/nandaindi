@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=39FF88&center=true&vCenter=true&width=750&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Nanda+Indi;Happy+coding%2C+and+glad+you're+here!" alt="Typing SVG" />
-</p>
+
+![nanda indi](img/header.png)
 
 ---
 
-![nanda indi](img/header.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=39FF88&center=true&vCenter=true&width=750&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Nanda+Indi;Happy+coding%2C+and+glad+you're+here!" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -74,7 +75,7 @@ Here are some ideas to get you started:
 
 ---
 
-##### Connect With Me
+### Connect With Me
 
 <div data-importer="socials" align="center">
 
@@ -95,9 +96,7 @@ Here are some ideas to get you started:
 
 </div>
 
-###
-
-###
+---
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandaindi/nandaindi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -105,4 +104,4 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nandaindi/nandaindi/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+
