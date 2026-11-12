@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 
 ### Connect With Me
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
 
 <table>
   <tr>
-    <td align="left" width="150">
+    <td align="center" width="150">
       <a href="https://www.instagram.com/nandaindil">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo" />
       </a>
